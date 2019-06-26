@@ -1,0 +1,1 @@
+This folder contains the files that need to be registered in MINT, along with a Jupyter notebook containing all of the data processing, metadata instantiations, and api calls necessary for registration.
